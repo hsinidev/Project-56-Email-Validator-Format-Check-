@@ -1,0 +1,5 @@
+{
+  "name": "Project 56: Email Validator (Format Check)",
+  "description": "A modern ReactJS tool to instantly check if an email address follows the correct structural syntax using Pure JavaScript Regex. Features an animated galaxy background and provides clear, color-coded PASS/FAIL feedback with detailed validation checks.",
+  "requestFramePermissions": []
+}
